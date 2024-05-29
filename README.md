@@ -9,3 +9,6 @@ Questions? File an Issue.
 Cite as:
 
 https://arxiv.org/abs/2404.07382
+
+
+MIT License
